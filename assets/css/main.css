@@ -2630,9 +2630,13 @@ input, select, textarea {
 		}
 
 		 #header h3, #header h4, #header h5, #header h6 {
-			color: #696969;
-			font-size: 1.4rem;
+			color: white;
 			font-weight: bolder;
+			background-image: 
+			linear-gradient(
+			  rgba(0, 0, 0, 0.5),
+			  rgba(0, 0, 0, 0.5)
+			)
 	}
 
 		#header h2{
